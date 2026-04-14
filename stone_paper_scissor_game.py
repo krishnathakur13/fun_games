@@ -41,3 +41,5 @@ elif user_choice =="Scissor":
         print("Scissor cuts paper = You Win...")
     else:
         print("Rock samshed Scissor = computer Win...")
+else:
+    print("Invalid choice ")
